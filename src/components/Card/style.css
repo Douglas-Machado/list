@@ -1,0 +1,19 @@
+.card{
+  height: 2.5rem;
+  width: 50%;
+
+  background-color: #7882A4;
+  color: #EFEFEF;
+
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.card strong{
+  font-size: 20px;
+}
